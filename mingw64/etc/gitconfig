@@ -1,0 +1,5 @@
+[http]
+	sslBackend = openssl
+	sslCAInfo = C:/Users/mayumi/AndroidStudioProjects/app/mingw64/ssl/certs/ca-bundle.crt
+[credential]
+	helper = manager
